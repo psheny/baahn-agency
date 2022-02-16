@@ -27,6 +27,7 @@
     "autoprefixer": "^10.4.2",
     "css-loader": "^6.6.0",
     "postcss": "^8.4.6",
+    "postcss-import": "^14.0.2",
     "postcss-loader": "^6.2.1",
     "postcss-nested": "^5.0.6",
     "postcss-simple-vars": "^6.0.3",
